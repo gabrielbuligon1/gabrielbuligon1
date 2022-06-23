@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é Gabriel Buligon 
+- 👀 Estou no primeiro ano do ensino médio 
+- 🌱 E estou começando a programar
